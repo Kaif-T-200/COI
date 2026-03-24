@@ -1,14 +1,15 @@
-# 🏛️ Panchayati Raj System - Digital Presentation
+<h1 align="center"> 🏛️ Panchayati Raj System - Digital Presentation </h1>
 
-A premium, interactive, and high-performance digital presentation on the **Panchayati Raj System in India**, specifically designed for academic submission for the **Constitution of India** subject.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge&logo=rescuetime)
-![UI/UX](https://img.shields.io/badge/UI/UX-Glassmorphism-blueviolet?style=for-the-badge)
+**A premium, interactive, and high-performance digital presentation on the **Panchayati Raj System in India**, specifically designed for academic submission for the **Constitution of India** subject.**
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-%23FF512F.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-%230098FF.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7971E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Responsive-Optimized-141321?style=for-the-badge&logo=webflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Modern%20Design-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white"/>
+</p>
 
 ## 🚀 Overview
 This project is a single-file, self-contained HTML presentation that covers the history, importance, structure, and legal framework of the Panchayati Raj system. It features a modern **Glassmorphism UI**, smooth animations, and a responsive layout designed for full-screen classroom presentations.
@@ -35,15 +36,7 @@ This project is a single-file, self-contained HTML presentation that covers the 
 
 ---
 
-## 👨‍💻 Author
-### **Kaif Tarasgar**
-*BSc Second Year | Constitution of India*  
-**Pimpri Chinchwad University, Pune**  
-**Guided By: Professor Archana Rathod**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaif-tarasgar-0b5425326/)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kaif_T_200)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaif-T-200)
+## 👤 Connect with Author <h1 align="center"> Kaif Tarasgar </h1> <p align="center"> <a href="https://www.linkedin.com/in/kaif-tarasgar-0b5425326/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;<b></b>&nbsp; <a href="https://github.com/Kaif-T-200"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> &nbsp;<b></b>&nbsp; <a href="https://x.com/Kaif_T_200"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;<b></b>&nbsp; <a href="https://kaif-t-200.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a> &nbsp;<b></b>&nbsp; </p> 
 
 ---
 *Created with ❤️ for Academic Excellence.*
